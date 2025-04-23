@@ -5,17 +5,17 @@ Soy una desarrolladora junior con interés en el desarrollo web y el aprendizaje
 
 ## Proyectos destacados
 
-- **Gestor de tareas:** Aplicación web desarrollada con Python y Django. [Repositorio](https://github.com/lauradev/gestor-tareas)
-- **Juego en JavaScript:** [Repositorio](https://github.com/lauradev/juego-js)
+- **Dasboard de Propinas:** Aplicación web desarrollada con Python, Plotly, Pandas y Shiny. [Repositorio](https://github.com/AlmorenoQ/Dashboard-de-Propinas)
+
 
 ## Tecnologías que utilizo
 
-HTML | CSS | JavaScript | Python | Git | GitHub
+  Python | Git | GitHub
 
 ## Contacto
 
-- Correo electrónico: lauradev@gmail.com
-- LinkedIn: [linkedin.com/in/lauradev](https://linkedin.com/in/lauradev)
+- Correo electrónico: almoreno2004@yahoo.es
+- LinkedIn: [Linkedin](http://www.linkedin.com/in/alberto-moreno-quintana-a30607310)
 <!--
 **AlmorenoQ/AlmorenoQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
