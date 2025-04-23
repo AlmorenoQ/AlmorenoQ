@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Sobre mí
 
-Soy una desarrolladora junior con interés en el desarrollo web y el aprendizaje continuo.
+Soy un desarrollador junior con interés en Ingeniería de Datos, Python y el aprendizaje continuo.
 
 ## Proyectos destacados
 
